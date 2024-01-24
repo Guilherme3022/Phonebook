@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698266173 source:c:\users\guiba\desktop\agenda.final\main.cpp
+	"bib.h"
+
+1698265842 c:\users\guiba\desktop\agenda.final\bib.h
+	<iostream>
+	<string>
+
+1706098799 source:c:\users\guiba\onedrive - univali\arquivos de algoritimos\algoritimos 2\trabalhos\phonebook\main.cpp
+	"bib.h"
+
+1706098799 c:\users\guiba\onedrive - univali\arquivos de algoritimos\algoritimos 2\trabalhos\phonebook\bib.h
+	<iostream>
+	<string>
+

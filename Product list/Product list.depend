@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1701721823 source:c:\users\8132860\downloads\listadeprodutos3.0\main.cpp
+	<iostream>
+	<fstream>
+	"bib.h"
+
+1701721231 c:\users\8132860\downloads\listadeprodutos3.0\bib.h
+	<iostream>
+	<stdlib.h>
+
+1701783341 source:c:\users\8092540\downloads\listadeprodutos3.0\main.cpp
+	<iostream>
+	<fstream>
+	"bib.h"
+
+1701783580 c:\users\8092540\downloads\listadeprodutos3.0\bib.h
+	<iostream>
+	<stdlib.h>
+
+1701893609 source:c:\users\guiba\desktop\listadeprodutosfinal\main.cpp
+	<iostream>
+	<fstream>
+	"bib.h"
+
+1701893609 c:\users\guiba\desktop\listadeprodutosfinal\bib.h
+	<iostream>
+	<stdlib.h>
+
+1701899052 source:c:\users\guiba\desktop\listadeprodutosfinal2.0\main.cpp
+	<iostream>
+	<fstream>
+	"bib.h"
+
+1701899052 c:\users\guiba\desktop\listadeprodutosfinal2.0\bib.h
+	<iostream>
+	<stdlib.h>
+
+1706099955 source:c:\users\guiba\onedrive - univali\arquivos de algoritimos\algoritimos 2\trabalhos\listadeprodutosfinal2.0\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"bib.h"
+
+1706101092 c:\users\guiba\onedrive - univali\arquivos de algoritimos\algoritimos 2\trabalhos\listadeprodutosfinal2.0\bib.h
+	<iostream>
+	<stdlib.h>
+
