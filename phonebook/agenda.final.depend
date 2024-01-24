@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1698266173 source:c:\users\guiba\desktop\agenda.final\main.cpp
-	"bib.h"
-
-1698265842 c:\users\guiba\desktop\agenda.final\bib.h
-	<iostream>
-	<string>
-
